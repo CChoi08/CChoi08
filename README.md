@@ -1,14 +1,10 @@
 ### Hello there, 👋!
 ### Full Stack Developer
 
-**About Me**
------------------------------------------------------------------------------------------------------------------------------------------------------------
+## **About Me**
   Welcome, my name is Christopher Choi! I am a recent graduate from Coding Dojo.
   
-**Language and Skills**
------------------------------------------------------------------------------------------------------------------------------------------------------------
-https://developer.mozilla.org/en-US/docs/Web/JavaScript
-https://www.python.org/
+## **Language and Skills**
 
 <!--
 **CChoi08/CChoi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
