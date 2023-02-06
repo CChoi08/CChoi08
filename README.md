@@ -19,7 +19,7 @@
 ## **Language and Skills**
 <div>
   <a href="https://www.python.org/">
-  <img height="45" src="(https://user-images.githubusercontent.com/115055374/217081363-8080c129-f927-4f76-8e91-c4e550d0eec2.png"
+  <img height="45" src="https://user-images.githubusercontent.com/115055374/217081363-8080c129-f927-4f76-8e91-c4e550d0eec2.png"
        alt="python"/>
   </a>
   <a href="https://www.java.com/en/">
