@@ -57,4 +57,12 @@
   <img height="45"      src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"
        alt="spring"/>
   </a>
+  <a href="https://nodejs.org/en/">
+  <img height="45" src="https://user-images.githubusercontent.com/115055374/217091097-b6b24d94-36b3-4df9-84f9-ca2ba0178f08.png"
+       alt="node.js"/>
+  </a>
+  <a href="https://expressjs.com/">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+       alt="node.js"/>
+  </a>
 </div>
