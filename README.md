@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=hello%20there!%20👋&fontSize=90&desc=Use%20theme&descAlign=60&descAlignY=50&theme=tokyonight&" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hello%20there!%20👋&fontSize=75" />
 </p>
 ### Full Stack Developer
 
