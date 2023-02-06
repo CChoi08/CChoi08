@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there, 👋!
+### Full Stack Developer
+
+<u><em>About Me</em></u>
 
 <!--
 **CChoi08/CChoi08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
