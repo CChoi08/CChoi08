@@ -94,4 +94,5 @@
 ## 📊 GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChoi08&layout=compact&theme=dark&hide_border=false)](https://github.com/CChoi08/github-readme-stats)
-
+![](https://github-readme-stats.vercel.app/api?username=CChoi08theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=CChoi08&theme=react&hide_border=false)<br/>
