@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hello%20there!%20👋&fontSize=75&fontColor=000000" />
 </p>
+
 ### Full Stack Developer
 
 ## **About Me**
