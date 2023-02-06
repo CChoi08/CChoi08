@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-<p>
-  <img src="https://capsule-render.vercel.app/api?text=hello there!&type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90" />
-</p>
+![header](https://capsule-render.vercel.app/api?text=hello&type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
   
 ### Full Stack Developer
 
