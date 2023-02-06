@@ -12,8 +12,9 @@
 </div>
 
 ## **About Me**
-### Full Stack Developer
-  Welcome, my name is Christopher Choi! I am a recent graduate from Coding Dojo.
+###### Full Stack Developer
+  Welcome, my name is Christopher Choi! <br />
+  I am a recent graduate from Coding Dojo.
   
 ## **Some Tools I Have Used & Learned**
 <div>
