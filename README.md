@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ## Let's Connect  
+  ## Let's Connect and Have a Chat! 💬
   
 </div>
 
