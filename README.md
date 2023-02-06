@@ -57,12 +57,36 @@
   <img height="45"      src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667"
        alt="spring"/>
   </a>
+  <a href="https://expressjs.com/">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
+       alt="node.js"/>
+  </a>
   <a href="https://nodejs.org/en/">
   <img height="45" src="https://user-images.githubusercontent.com/115055374/217091097-b6b24d94-36b3-4df9-84f9-ca2ba0178f08.png"
        alt="node.js"/>
   </a>
-  <a href="https://expressjs.com/">
-  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg"
-       alt="node.js"/>
+  <a href="https://flask.palletsprojects.com/en/2.2.x/">
+  <img height="45" src="https://user-images.githubusercontent.com/115055374/217103198-587dcd99-f4f6-45ad-a620-e247fee2b60c.png"
+       alt="flask"/>
+  </a>
+  <a href="https://www.mongodb.com/">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
+       alt="mongodb"/>
+  </a>
+  <a href="https://www.mysql.com/">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+       alt="mysql"/>
+  </a>
+  <a href="https://www.postman.com/">
+  <img height="45" src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667"
+       alt="postman"/>
+  </a>
+  <a href="https://getbootstrap.com/">
+  <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+       alt="bootstrap"/>
+  </a>
+  <a href="https://tailwindcss.com/">
+  <img height="45" src="https://www.svgrepo.com/show/374118/tailwind.svg"
+       alt="tailwind"/>
   </a>
 </div>
