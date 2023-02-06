@@ -20,7 +20,7 @@
 ## About Me
 ###### Full Stack Developer || Software Engineer
   Welcome, my name is Christopher Choi! <br />
-  Located in the San Francisco bay area, and a recent graduate from the Coding Dojo. I am a highly motivated software developer with a passion 
+  Located in the San Francisco Bay Area, and a recent graduate from the Coding Dojo. I am a highly motivated software developer with a passion 
   for learning and creating innovative solutions. Thanks for stopping by!
   
 ## Some Tools I Have Used & Learned
@@ -36,5 +36,13 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
        alt="javascript"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+       alt="html"/>
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css">
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+       alt="w3 css"/>
   </a>
 </div>
