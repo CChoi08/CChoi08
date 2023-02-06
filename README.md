@@ -90,3 +90,9 @@
        alt="tailwind"/>
   </a>
 </div>
+
+## GitHub Stats
+
+<div>
+![] (https://github-readme-stats.vercel.app/api/top-langs?username=CChoi08&theme=react&hide_border=false&show_icons=true&locale=en&layout=compact)
+</div>
