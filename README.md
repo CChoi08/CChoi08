@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20There!%20👋&fontSize=75&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20There!%20👋&fontSize=75" />
 </p>
 
 ## Let's Connect
@@ -12,9 +12,10 @@
 </div>
 
 ## **About Me**
-###### Full Stack Developer
-  Welcome, my name is Christopher Choi! <br />
-  I am a recent graduate from Coding Dojo.
+###### Full Stack Developer || Software Engineer
+  <span>   </span>Welcome, my name is Christopher Choi! <br />
+  Located in the San Francisco bay area, and a recent graduate from the Coding Dojo. I am a highly motivated software developer with a passion 
+  for learning and creating innovative solutions. Thanks for stopping by!
   
 ## **Some Tools I Have Used & Learned**
 <div>
