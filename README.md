@@ -42,7 +42,7 @@
        alt="html"/>
   </a>
   <a href="https://www.w3.org/TR/CSS/#css">
-  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+  <img height="45" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
        alt="w3 css"/>
   </a>
 </div>
