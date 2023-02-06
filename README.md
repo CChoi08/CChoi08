@@ -17,13 +17,13 @@
   
 </div>
 
-## About Me
+## 👨‍💻 About Me
 ###### Full Stack Developer || Software Engineer
   Welcome, my name is Christopher Choi! <br />
   Located in the San Francisco Bay Area, and a recent graduate from the Coding Dojo. I am a highly motivated software developer with a passion 
   for learning and creating innovative solutions. Thanks for stopping by!
   
-## Some Tools I Have Used & Learned
+## 🛠️ Some Tools I Have Used & Learned
 <div>
   <a href="https://www.python.org/">
   <img height="45" src="https://user-images.githubusercontent.com/115055374/217081363-8080c129-f927-4f76-8e91-c4e550d0eec2.png"
