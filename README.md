@@ -94,5 +94,5 @@
 ## GitHub Stats
 
 <div>
-![] (https://github-readme-stats.vercel.app/api/top-langs?username=CChoi08&theme=react&hide_border=false&show_icons=true&locale=en&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChoi08&layout=compact&theme=react&hide_border=false)](https://github.com/CChoi08/github-readme-stats)
 </div>
