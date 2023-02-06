@@ -91,8 +91,7 @@
   </a>
 </div>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CChoi08&layout=compact)](https://github.com/CChoi08/github-readme-stats)
-</div>
+
