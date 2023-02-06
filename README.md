@@ -14,6 +14,10 @@
   <img height="45" src="https://user-images.githubusercontent.com/115055374/217080332-b7b2d3a2-5161-42f1-9a78-8bb24b65ef0e.png"
        alt="linkedin"/>
   </a>
+  <a href="https://www.instagram.com/c_choi7895/">
+  <img height="45" src="https://user-images.githubusercontent.com/115055374/217089556-675584a6-3ac0-4228-8600-cb07b1910e7e.png"
+       alt="instagram"/>
+  </a>
   
 </div>
 
