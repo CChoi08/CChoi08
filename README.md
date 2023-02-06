@@ -1,6 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=hello%20there!%20👋&fontSize=75&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20There!%20👋&fontSize=75&fontColor=000000" />
 </p>
+<p>
+  Let's Connect!
+</p>
+<div>
+  <a href="https://www.linkedin.com/in/christopher-choi-16b627148/">
+  <img height="50" src="https://user-images.githubusercontent.com/115055374/217080332-b7b2d3a2-5161-42f1-9a78-8bb24b65ef0e.png"
+       alt="linkedin"/>
+</a>
+</div>
 
 ### Full Stack Developer
 
