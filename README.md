@@ -11,12 +11,11 @@
 </a>
 </div>
 
-### Full Stack Developer
-
 ## **About Me**
+### Full Stack Developer
   Welcome, my name is Christopher Choi! I am a recent graduate from Coding Dojo.
   
-## **Language and Skills**
+## **Some Tools I Have Used & Learned**
 <div>
   <a href="https://www.python.org/">
   <img height="45" src="https://user-images.githubusercontent.com/115055374/217081363-8080c129-f927-4f76-8e91-c4e550d0eec2.png"
