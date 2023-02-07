@@ -10,7 +10,7 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/christopher-choi-16b627148/">
+  <a href="https://www.linkedin.com/in/cchoi08/">
   <img height="45" src="https://user-images.githubusercontent.com/115055374/217080332-b7b2d3a2-5161-42f1-9a78-8bb24b65ef0e.png"
        alt="linkedin"/>
   </a>
